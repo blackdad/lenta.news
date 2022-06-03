@@ -1,0 +1,3 @@
+<?
+$MESS["CT_BCS_TPL_ELEMENT_DELETE_CONFIRM"] = "Du hast";
+?>
